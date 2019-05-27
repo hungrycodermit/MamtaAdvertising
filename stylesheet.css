@@ -1,0 +1,74 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: 'circular';
+}
+
+
+
+
+
+
+/*  MEDIA QUERIES */
+
+
+    
+
+
+
+
+
+
+
+
+
+nav{
+    box-shadow: 0% !important;
+    font-family: 'circular';
+    font-weight: 100;
+}
+
+div#head_banner{
+    height: auto;
+    padding: 4% 2%;
+    box-sizing: border-box !important;
+
+    
+}
+
+div#head_banner h1{
+    font-family: 'circular';
+    font-weight: 700;
+    text-transform: capitalize;
+}
+
+div#head_banner h6{
+    font-family: 'circular';
+    margin-bottom: 1.68rem;
+    font-weight: 500;
+}
+
+
+div#image1{
+    padding: 0% !important;
+}
+
+div#text{
+    margin-top: 10% !important;
+}
+
+a.waves-effect{
+    border-radius: 200px !important;
+    width: 150px !important;
+}
+
+div h1.center{
+    font-family: 'circular';
+    font-weight: 700;
+    font-size: 400%;
+    text-transform: capitalize;
+}
+
+.section-mar{
+    margin-top: 5rem !important;
+}
