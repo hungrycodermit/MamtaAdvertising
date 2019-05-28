@@ -22,6 +22,16 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
 nav{
     box-shadow: 0% !important;
     font-family: 'circular';
@@ -57,7 +67,7 @@ div#text{
     margin-top: 10% !important;
 }
 
-a.waves-effect{
+a.header_button{
     border-radius: 200px !important;
     width: 150px !important;
 }
@@ -70,5 +80,83 @@ div h1.center{
 }
 
 .section-mar{
-    margin-top: 5rem !important;
+    margin-top: 10rem !important;
 }
+
+.section-mar div h1.center{
+    margin-bottom: 10rem !important;
+}
+
+#card1{
+    background-image: url(IMAGES/duotone.png);
+    background-size: cover;
+    background-position: center;
+    height: auto;
+    padding: 5%;
+    box-sizing: border-box;
+    margin-bottom: 5rem;
+}
+
+
+#card1 h4{
+    margin-top: 35%;
+    font-weight: 700;
+}
+
+div.cardbtn-1 a{
+    margin-top: 1rem !important;
+    width: 50%!important;
+    border-radius: 80px !important;
+}
+
+#card2{
+    
+    background: url(IMAGES/planning.png);
+    background-size: cover;
+    background-position: center;
+    height: auto;
+    padding: 5%;
+    box-sizing: border-box;
+    margin-bottom: 5rem;
+}
+
+#card2 h4{
+    margin-top: 35%;
+    font-weight: 700;
+}
+
+#card3{
+    background: url(IMAGES/coding.png);
+    background-size: cover;
+    background-position: center;
+    height: auto;
+    padding: 5%;
+    box-sizing: border-box;
+    margin-bottom: 5rem;
+}
+
+#card3 h4{
+    margin-top: 35%;
+    font-weight: 700;
+}
+
+#card4{
+    background: url(IMAGES/creative.png);
+    background-size: cover;
+    background-position: center;
+    height: auto;
+    padding: 5%;
+    box-sizing: border-box;
+   
+}
+
+
+
+
+
+
+#card4 h4{
+    margin-top: 35%;
+    font-weight: 700;
+}
+
