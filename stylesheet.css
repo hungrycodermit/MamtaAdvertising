@@ -92,7 +92,7 @@ div h1.center{
 }
 
 #card1{
-    background-image: url(IMAGES/duotone.png);
+    background-image: url(duotone.png);
     background-size: cover;
     background-position: center;
     height: auto;
@@ -117,7 +117,7 @@ div.cardbtn-1 a{
 
 #card2{
     
-    background: url(IMAGES/planning.png);
+    background: url(planning.png);
     background-size: cover;
     background-position: center;
     height: auto;
@@ -132,7 +132,7 @@ div.cardbtn-1 a{
 }
 
 #card3{
-    background: url(IMAGES/coding.png);
+    background: url(coding.png);
     background-size: cover;
     background-position: center;
     height: auto;
@@ -147,7 +147,7 @@ div.cardbtn-1 a{
 }
 
 #card4{
-    background: url(IMAGES/creative.png);
+    background: url(creative.png);
     background-size: cover;
     background-position: center;
     height: auto;
