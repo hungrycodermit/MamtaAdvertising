@@ -132,5 +132,11 @@
         integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU="
         crossorigin="anonymous"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+        <script>
+            document.querySelector('.js-scroll-back').addEventListener('click', function(e) {
+            e.preventDefault();
+            window.scrollBy({ top: 900, left: 0, behavior: 'smooth' });
+             });
+        </script>
     </body>
 </html>
